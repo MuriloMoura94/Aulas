@@ -1,0 +1,39 @@
+<html>
+	<head>
+	<title> The New York Times </title>
+	<link rel = "icon" href = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoGnvsn_RC4jmarTlQtTzmcLJqWN75hC3VQ&usqp=CAU" 
+        type = "image/x-icon">
+	</head>
+
+<body>
+	<center><h1>Intefaces para que te quero...</h1></center>
+Seguindo a atividade solicitada pelo professor, abaixo segue as informações sobre o The New York Times
+	<br><center><img src="Interfaces para que te quero/imagem1.jpg" width= 575 height= 200/></center>
+<br><p>A primeira publicação do NYT para internet saiu em 1996. Estamos falando de 145 anos de diferença em relação a sua primeira publicação física, que 
+foi as ruas em 1851.</p>
+	<h2> Questôes </h2>
+<h4> -Qual era o o propósito inicial do site? </h4>
+	Como qualquer outro jornal ou portal de noticias, seu propósito inicial sempre tem como foco informar seus leitores.
+<h4> -O propósito do site mudou ao longo do tempo? </h4>
+	O propósito não. Mas com a evolução da internet e com o aumento de seu uso, tornou-se um excelente site para realizar propagandas e anúncios.
+<h4> -Quais os problemas que esse site tinha quando "novo" e quais têm agora? </h4>
+	Em 1996, a home page era bem simples com pouca informação e com links para suas devidas áreas ou sessões como a Front Page, CyberTimes, Politcs e 
+etc. Já entre o periodo de 2001 á 2011, a home já tinha bem mais conteúdo, chegava a ser poluida.
+<h4> -Que melhorias você faria nesse site para que ele pudesse ser mais interessante para um público jovem, de periferia, que não está acostumado ao uso 
+de Internet por computadores e não tem interesses por notícias. </h4>  
+	Inicialmente, adicionar uma área sobre temas que interessam aos jovens, com assuntos como música, jogos, esporte, celebridades e etc
+<h2> Evolução de cinco em cinco anos de 1996 á 2021 </h2>
+	<center><img src="Interfaces para que te quero/imagem2.jpg" alt="NYT 12 de novembro de 1996"/></center>
+	<center><h3> NYT 12 de novembro de 1996 </h3></center>
+	<br><br><center><img src="Interfaces para que te quero/imagem3.jpg" alt="NYT 11 de novembro de 2001" width= 575 height= 350/></center>
+	<center><h3> NYT 11 de novembro de 2001 </h3></center>
+	<br><br><center><img src="Interfaces para que te quero/imagem4.jpg" alt="NYT 13 de novembro de 2006" width= 575 height= 320/></center>
+	<center><h3> NYT 13 de novembro de 2006 </h3></center>
+	<br><br><center><img src="Interfaces para que te quero/imagem5.jpg" alt="NYT 11 de novembro de 2011" width= 575 height= 320/></center>
+	<center><h3> NYT 11 de novembro de 2011 </h3></center>
+	<br><br><center><img src="Interfaces para que te quero/imagem6.jpg" alt="NYT 11 de novembro de 2016" width= 575 height= 700/></center>
+	<center><h3> NYT 11 de novembro de 2016 </h3></center>
+	<br><br><center><img src="Interfaces para que te quero/imagem7.jpg" alt="NYT 12 de novembro de 2021" width= 575 height= 500/></center>
+	<center><h3> NYT 12 de novembro de 2021 </h3></center>
+</body>
+</html>
